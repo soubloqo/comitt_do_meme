@@ -1,0 +1,86 @@
+[
+  {
+    "nome": "Dancing Baby",
+    "descricao": "O famoso bebê dançante de 1996, um dos primeiros memes da internet",
+    "ano": "1996",
+    "video": "https://vimeo.com/49094961"
+  },
+  {
+    "nome": "Avaiana de Pau",
+    "descricao": "Meme de 2004 mostrando humor brasileiro absurdo",
+    "ano": "2004",
+    "video": "https://www.youtube.com/watch?v=huxoyseR04U"
+  },
+  {
+    "nome": "Sanduíche-iche (Entrevista Original)",
+    "descricao": "Entrevista viral de 2004 que se tornou meme no Brasil",
+    "ano": "2004",
+    "video": "https://www.youtube.com/watch?v=pmn-dbBpglU"
+  },
+  {
+    "nome": "Um Mamute Pequenininho Queria Voar",
+    "descricao": "Animação cômica de 2005 que conquistou a internet",
+    "ano": "2005",
+    "video": "https://www.youtube.com/watch?v=wkDyDS9tGpw"
+  },
+  {
+    "nome": "Jeremias (Jeremias Muito Louco)",
+    "descricao": "Meme brasileiro de 2005 conhecido por situações engraçadas e inusitadas",
+    "ano": "2005",
+    "video": "https://www.youtube.com/watch?v=MsdnufGPG1A"
+  },
+  {
+    "nome": "Tapa na Pantera",
+    "descricao": "Vídeo clássico de humor absurdo que viralizou em 2006",
+    "ano": "2006",
+    "video": "https://www.youtube.com/watch?v=6rMloiFmSbw"
+  },
+  {
+    "nome": "O Jardineiro é Jesus e as Árveres Somos Nozes",
+    "descricao": "Meme absurdo e icônico do humor brasileiro de 2006",
+    "ano": "2006",
+    "video": "https://www.youtube.com/watch?v=7wxd17wjuZA"
+  },
+  {
+    "nome": "Confissões de um Emo",
+    "descricao": "Vídeo icônico de 2006 que satirizava a cultura emo",
+    "ano": "2006",
+    "video": "https://www.youtube.com/watch?v=JBYglSJ1D7w"
+  },
+  {
+    "nome": "Dramatic Chipmunk",
+    "descricao": "O famoso esquilo dramático que viralizou em 2007",
+    "ano": "2007",
+    "video": "https://www.youtube.com/watch?v=y8Kyi0WNg40"
+  },
+  {
+    "nome": "Keyboard Cat",
+    "descricao": "Gato tocando teclado, meme viral de 2007",
+    "ano": "2007",
+    "video": "https://www.youtube.com/watch?v=J---aiyznGQ&t=1s"
+  },
+  {
+    "nome": "Dança do Quadrado",
+    "descricao": "Vídeo musical cômico que viralizou no Brasil em 2008",
+    "ano": "2008",
+    "video": "https://www.youtube.com/watch?v=Ktgsn_G59os"
+  },
+  {
+    "nome": "Para Nossa Alegria",
+    "descricao": "Vídeo viral de 2012 com humor absurdo e popularidade na internet",
+    "ano": "2012",
+    "video": "https://www.youtube.com/watch?v=K02Cxo3fAC8"
+  },
+  {
+    "nome": "Jamelão no Skate",
+    "descricao": "Você me f0deu, Jamelão!",
+    "ano": "2010",
+    "video": "https://www.youtube.com/watch?v=Swp_YB0o-gQ"
+  },
+  {
+    "nome": "Choque da Uva",
+    "descricao": "O famoso choque que Lasier tomou das uvas",
+    "ano": "2013",
+    "video": "https://www.youtube.com/watch?v=U9CXtycJz_g"
+  }
+]
