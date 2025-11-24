@@ -6,7 +6,7 @@ Com cores nostálgicas, tipografia retrô e um layout propositalmente confuso, o
 
 Emulando os antigos navegadores, as cores foram cuidadosamente pensadas para você voltar no tempo, e a estética desordenada foi pensada para reproduzir o ritmo caótico e divertido da internet pré-2000, lembrando que, embora a tecnologia evolua, a emoção de compartilhar e se conectar permanece.
 
-Mais do que nostalgia, “Ctrl+Z na Timeline dos Vídeos Virais” é uma experiência cultural: 
+Mais do que nostalgia, “Commit do Meme: Ctrl+Z na Timeline dos Vídeos Virais” é uma experiência cultural: 
 é uma viagem pelo humor digital que atravessou gerações;
 uma reflexão sobre como os memes moldam cultura e conexões online;
 uma celebração da memória digital e da espontaneidade da web. 
